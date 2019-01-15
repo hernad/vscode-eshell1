@@ -1,6 +1,6 @@
-# eshell1 README
+# harbour1 README
 
-This is the README for your extension "eshell1". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "harbour1". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 

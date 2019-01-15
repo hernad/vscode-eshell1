@@ -1,6 +1,6 @@
 {
-    "name": "eshell1",
-    "displayName": "eshell1",
+    "name": "harbour1",
+    "displayName": "harbour1",
     "description": "ext1 eShell",
     "version": "0.0.1",
     "engines": {
